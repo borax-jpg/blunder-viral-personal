@@ -1,1 +1,1 @@
-# blunder-viral-personal
+# blunder.viral
